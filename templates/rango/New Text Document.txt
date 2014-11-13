@@ -1,0 +1,13 @@
+<! DOCTYPE html>
+ <html>
+   <head>
+     <title>Rango></title>
+   </head>
+
+   <body>
+     <h1>Rango says...</h1>
+     hello world! {{name}} <br />
+     We are in the index_class HTML File!
+     <a href="/rango/about/">About</a><br />
+   </body>
+ </html>
